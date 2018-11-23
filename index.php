@@ -23,3 +23,4 @@ $suma = $aritmetica->suma(2, 3);
 echo $suma;
 echo $aritmetica->diferenta(7, 3);
 echo $matematica->diferenta(7, 3);
+echo $matematica->diferenta(0, 0);
